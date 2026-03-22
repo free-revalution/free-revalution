@@ -18,7 +18,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/free-revalution@latest
         with:
           # Your GitHub token
           # The following scopes are required:
